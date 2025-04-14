@@ -10,6 +10,11 @@ void Start() {
 
 ## My Activity
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br><br><br>
   <a href="https://github.com/blackparkerninja/blackparkerninja/">
