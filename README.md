@@ -2,7 +2,8 @@
 ``` cs
 void Start() {
   print("Hello World!");
-  
+  print("I'm from Japan");
+  string[] hobbies = {"Computer game","Rubik's cube","Plastic model","PC DIY"}
 }
 ```
 ## My Skill
