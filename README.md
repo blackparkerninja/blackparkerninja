@@ -13,8 +13,7 @@ void Start() {
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   34 mins         ██████████████████░░░░░░░   71.61 %
-Text   13 mins         ███████░░░░░░░░░░░░░░░░░░   28.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
