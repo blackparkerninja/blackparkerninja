@@ -13,7 +13,8 @@ void Start() {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GLSL   7 mins          ██████████████████░░░░░░░   72.11 %
+Text   2 mins          ███████░░░░░░░░░░░░░░░░░░   27.89 %
 ```
 
 <!--END_SECTION:waka-->
