@@ -13,11 +13,8 @@ void Start() {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 29 mins    ████████████▒░░░░░░░░░░░░   49.50 %
-YAML         1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   37.83 %
-Docker       18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Batchfile    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   1 hr 18 mins    █████████████████████████   99.84 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
