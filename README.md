@@ -13,7 +13,7 @@ void Start() {
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          4 hrs 46 mins   █████████████████████████   99.91 %
+Lua          4 hrs 43 mins   █████████████████████████   99.91 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
