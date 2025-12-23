@@ -13,10 +13,8 @@ void Start() {
 <!--START_SECTION:waka-->
 
 ```txt
-Lua             2 hrs 56 mins   ████████████████████████▓   98.11 %
-Unity3D Asset   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Git             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Lua             2 hrs 13 mins   █████████████████████████   99.61 %
+Unity3D Asset   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
