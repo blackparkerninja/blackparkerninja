@@ -13,8 +13,7 @@ void Start() {
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   23 mins         ██████████████████░░░░░░░   71.40 %
-Lua    9 mins          ███████░░░░░░░░░░░░░░░░░░   28.60 %
+JSON   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
