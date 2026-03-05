@@ -13,7 +13,8 @@ void Start() {
 <!--START_SECTION:waka-->
 
 ```txt
-C#   1 hr 24 mins          █████████████████████████   100.00 %
+C#    2 hrs 2 mins          ████████████████████████▒   97.82 %
+Lua   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
